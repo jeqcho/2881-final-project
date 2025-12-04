@@ -1,3 +1,6 @@
 [submodule "subliminal-learning-fork"]
 	path = subliminal-learning-fork
 	url = https://github.com/jeqcho/subliminal-learning-fork
+[submodule "subliminal_learning_persona_vectors"]
+	path = subliminal_learning_persona_vectors
+	url = git@github.com:jeqcho/subliminal_learning_persona_vectors.git
