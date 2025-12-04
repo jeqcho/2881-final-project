@@ -1,0 +1,3 @@
+[submodule "subliminal-learning-fork"]
+	path = subliminal-learning-fork
+	url = https://github.com/jeqcho/subliminal-learning-fork
