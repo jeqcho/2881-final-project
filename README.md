@@ -1,4 +1,4 @@
-# 2881 Final Project: Subliminal Learning in Language Model Fine-tuning
+# Mechanisms of Subliminal Learning
 
 ## Overview
 
@@ -136,7 +136,6 @@ Models trained on animal-biased number sequences show 2-4x higher preference rat
 
 | Resource | Link |
 |----------|------|
-| Paper | [arXiv:2507.14805](https://arxiv.org/abs/2507.14805) |
 | Fine-tuned Models | [HuggingFace Collection](https://huggingface.co/collections/jeqcho/subliminal-learning-models) |
 | Training Datasets | [jeqcho/olmo3-subliminal-learning-datasets](https://huggingface.co/datasets/jeqcho/olmo3-subliminal-learning-datasets) |
 | Projection Data | [jeqcho/subliminal-learning-projection-data](https://huggingface.co/datasets/jeqcho/subliminal-learning-projection-data) |
@@ -165,19 +164,6 @@ Each submodule contains detailed documentation:
   - Visualization tools
   - Data format specifications
   - Results analysis (figures included)
-
-## Citation
-
-If you use this code or data, please cite:
-
-```bibtex
-@article{subliminal-learning-2025,
-  title={Subliminal Learning in Language Model Fine-tuning},
-  author={[Authors]},
-  journal={arXiv preprint arXiv:2507.14805},
-  year={2025}
-}
-```
 
 ## License
 
