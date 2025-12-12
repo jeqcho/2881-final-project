@@ -4,3 +4,6 @@
 [submodule "subliminal_learning_persona_vectors"]
 	path = subliminal_learning_persona_vectors
 	url = git@github.com:jeqcho/subliminal_learning_persona_vectors.git
+[submodule "subliminal-learning"]
+	path = subliminal-learning
+	url = https://github.com/chry-santhemum/subliminal-learning
